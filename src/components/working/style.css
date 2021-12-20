@@ -1,0 +1,6 @@
+.react-datepicker__input-container input {
+    display: block;
+    width: 50%;
+    font-size: 25px;
+  }
+
